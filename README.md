@@ -6,8 +6,8 @@ Hello! My name is Jakub Czarnik, and I warmly welcome you to my GitHub profile. 
 I began my journey with Python at the start of 2022, when I had to learn it to pass an important exam in my country that would allow me to get into a good university. Shortly after taking the exam, I became very interested in machine learning. So much so that I decided to teach myself everything about it, as I believe this is the most efficient way to learn.
 
 ## Skills
-- ![](https://progress-bar.dev/100/) Python
-- ![](https://progress-bar.dev/100/) TensorFlow
+- ![](https://progress-bar.dev/95/) Python
+- ![](https://progress-bar.dev/95/) TensorFlow
 - ![](https://progress-bar.dev/60/) SQL
 - ![](https://progress-bar.dev/30/) PyTorch
 - ![](https://progress-bar.dev/30/) C++
