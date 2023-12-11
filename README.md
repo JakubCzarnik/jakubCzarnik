@@ -15,10 +15,9 @@ Since I was young, I’ve been interested in science, especially math. I loved s
 ## Main Projects
 
 #### Machine Learning:
-- **Classical ML Algorithms Implementation** (C++):  Developed implementations of six popular machine learning algorithms (Linear Regression, Logistic Regression, K-Means, KNN, Naive Bayes) using C++.
+- **Classical ML Algorithms Implementation** (C++):  Developed implementations of six popular machine learning algorithms (Linear Regression, Logistic Regression, K-Means, KNN, Naive Bayes, PCA) using C++.
 - **Machine Learning Framework from Scratch** (NumPy):  Built a Dense layer from scratch using NumPy, which was utilized to construct Classifier and GAN models trained on the Cifar-10 dataset.
    
-
 #### Computer Vision:
 - **cWGAN-GP** (Tensorflow):  Developed a conditional Wasserstein GAN with gradient penalty on the Cifar-10 dataset.
 - **Object Detection** (Tensorflow):  Created an Object Detection model to detect and classify 80 classes from the COCO2017 dataset.
@@ -26,5 +25,4 @@ Since I was young, I’ve been interested in science, especially math. I loved s
 
 
 
-  
 Thank you for visiting my profile!
