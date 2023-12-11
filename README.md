@@ -1,19 +1,30 @@
 # Welcome to my GitHub Profile!
 
-Hello! My name is Jakub Czarnik, and I warmly welcome you to my GitHub profile. I'm a 20-year-old computer vision enthusiast, constantly developing my skills in this field. 
+Hello! My name is Jakub Czarnik, and I warmly welcome you to my GitHub profile. 
 
 ## About Me
-I began my journey with Python at the start of 2022, when I had to learn it to pass an important exam in my country that would allow me to get into a good university. Shortly after taking the exam, I became very interested in machine learning. So much so that I decided to teach myself everything about it, as I believe this is the most efficient way to learn.
+Since I was young, I’ve been interested in science, especially math. I loved solving tough problems and always learning something new. Plus, I’ve always enjoyed sharing what I know with others. When I first learned about machine learning, I knew right away that this was the field I wanted to work in. It combines my love for math, computer science, the joy of continuous learning, and the satisfaction of solving complex problems that I’ve had since I was a kid.
 
 ## Skills
-- ![](https://progress-bar.dev/95/) Python
-- ![](https://progress-bar.dev/95/) TensorFlow
-- ![](https://progress-bar.dev/60/) SQL
-- ![](https://progress-bar.dev/30/) PyTorch
-- ![](https://progress-bar.dev/30/) C++
+- **Python**:  Proficient with 2 years of self-education experience.
+- **Machine learning**:  Skilled in TensorFlow, OpenCV, and Scikit-Learn with 1 year of self-education experience.
 
-## Interests
+## Certifications:
+- **Tensorflow Developer Certificate**
 
-From a young age, I loved learning, especially exact sciences including mathematics. I love mathematics so much that I could confidently call it my passion since childhood. This is one of the reasons why I fell in love with machine learning when I started learning about it. This field literally has all the aspects that excite me: incredibly difficult problems, complex calculations, programming, and at the end, immense satisfaction from solving a problem.
+## Main Projects
 
+#### Machine Learning:
+- **Classical ML Algorithms Implementation** (C++):  Developed implementations of six popular machine learning algorithms (Linear Regression, Logistic Regression, K-Means, KNN, Naive Bayes) using C++.
+- **Machine Learning Framework from Scratch** (NumPy):  Built a Dense layer from scratch using NumPy, which was utilized to construct Classifier and GAN models trained on the Cifar-10 dataset.
+   
+
+#### Computer Vision:
+- **cWGAN-GP** (Tensorflow):  Developed a conditional Wasserstein GAN with gradient penalty on the Cifar-10 dataset.
+- **Object Detection** (Tensorflow):  Created an Object Detection model to detect and classify 80 classes from the COCO2017 dataset.
+- **Multi-Pose Estimation** (Tensorflow):  Currently working on a multi-pose estimation model.
+
+
+
+  
 Thank you for visiting my profile!
