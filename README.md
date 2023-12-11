@@ -15,13 +15,13 @@ Since I was young, I’ve been interested in science, especially math. I loved s
 ## Main Projects
 
 #### Machine Learning:
-- **Classical ML Algorithms Implementation** (C++):  Developed implementations of six popular machine learning algorithms (Linear Regression, Logistic Regression, K-Means, KNN, Naive Bayes, PCA) using C++.
-- **Machine Learning Framework from Scratch** (NumPy):  Built a Dense layer from scratch using NumPy, which was utilized to construct Classifier and GAN models trained on the Cifar-10 dataset.
+- [**Classical ML Algorithms Implementation**](https://github.com/JakubCzarnik/Machine-Learning-in-Cpp) (C++):  Developed implementations of six popular machine learning algorithms (Linear Regression, Logistic Regression, K-Means, KNN, Naive Bayes, PCA) using C++.
+- [**Machine Learning Framework from Scratch**](https://github.com/JakubCzarnik/NumPy-MNIST-GAN-Classifier) (NumPy):  Built a Dense layer from scratch using NumPy, which was utilized to construct Classifier and GAN models trained on the Cifar-10 dataset.
    
 #### Computer Vision:
-- **cWGAN-GP** (Tensorflow):  Developed a conditional Wasserstein GAN with gradient penalty on the Cifar-10 dataset.
-- **Object Detection** (Tensorflow):  Created an Object Detection model to detect and classify 80 classes from the COCO2017 dataset.
-- **Multi-Pose Estimation** (Tensorflow):  Currently working on a multi-pose estimation model.
+- [**cWGAN-GP**](https://github.com/JakubCzarnik/cWGAN-GP-Cifar10) (Tensorflow):  Developed a conditional Wasserstein GAN with gradient penalty on the Cifar-10 dataset.
+- [**Object Detection**](https://github.com/JakubCzarnik/Object-Detection-Model-for-the-COCO2017-dataset) (Tensorflow):  Created an Object Detection model to detect and classify 80 classes from the COCO2017 dataset.
+- [**Multi-Pose Estimation**](https://github.com/JakubCzarnik/Pose-Estimation-for-the-COCO2017-dataset-) (Tensorflow):  Currently working on a multi-pose estimation model.
 
 
 
