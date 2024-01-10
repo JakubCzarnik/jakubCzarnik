@@ -20,7 +20,7 @@ Since I was young, I’ve been interested in science, especially math. I loved s
    
 #### Computer Vision:
 - [**cWGAN-GP**](https://github.com/JakubCzarnik/cWGAN-GP-Cifar10) (Tensorflow):  Developed a conditional Wasserstein GAN with gradient penalty on the Cifar-10 dataset.
-- [**Object Detection**](https://github.com/JakubCzarnik/Object-Detection-Model-for-the-COCO2017-dataset) (Tensorflow):  Created an Object Detection model to detect and classify 80 classes from the COCO2017 dataset.
+- [**Object Detection**](https://github.com/JakubCzarnik/Object-Detection-Model-for-the-COCO2017-dataset) (Tensorflow):  I developed an object detection model based on the YOLOv8 architecture. This model utilizes a **DynamicBBoxMatcher** algorithm, which dynamically matches predicted bounding boxes to true bounding boxes based on Intersection Over Union (IOU) and classification during loss calculation. Additionally, I employed the **Non-Maximum Suppression** (NMS) algorithm, which selects the bounding box with the highest IOU among multiple overlapping bounding boxes.
 - [**Multi-Pose Estimation**](https://github.com/JakubCzarnik/Pose-Estimation-for-the-COCO2017-dataset-) (Tensorflow):  Currently working on a multi-pose estimation model.
 
 
