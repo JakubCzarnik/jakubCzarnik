@@ -15,8 +15,9 @@ Since I was young, I’ve been interested in science, especially math. I loved s
 ## Main Projects
 
 #### Machine Learning:
+- [**Deep Machine Learning Framework from Scratch**](https://github.com/JakubCzarnik/NumPy-MNIST-GAN-Classifier) (NumPy):  Built a Dense layer from scratch using NumPy, which was utilized to construct Classifier and GAN models trained on the MNIST dataset.
 - [**Classical ML Algorithms Implementation**](https://github.com/JakubCzarnik/Machine-Learning-in-Cpp) (C++):  Developed implementations of six popular machine learning algorithms (Linear Regression, Logistic Regression, K-Means, KNN, Naive Bayes, PCA) using C++.
-- [**Machine Learning Framework from Scratch**](https://github.com/JakubCzarnik/NumPy-MNIST-GAN-Classifier) (NumPy):  Built a Dense layer from scratch using NumPy, which was utilized to construct Classifier and GAN models trained on the Cifar-10 dataset.
+
    
 #### Computer Vision:
 - [**cWGAN-GP**](https://github.com/JakubCzarnik/cWGAN-GP-Cifar10) (Tensorflow):  Developed a conditional Wasserstein GAN with gradient penalty on the Cifar-10 dataset.
