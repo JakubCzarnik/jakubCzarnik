@@ -14,16 +14,9 @@ Since I was young, I’ve been interested in science, especially math. I loved s
 
 ## Main Projects
 
-#### Machine Learning:
-- [**Deep Machine Learning Framework from Scratch**](https://github.com/JakubCzarnik/NumPy-MNIST-GAN-Classifier) (NumPy):  Built a Dense layer from scratch using NumPy, which was utilized to construct Classifier and GAN models trained on the MNIST dataset.
-- [**Classical ML Algorithms Implementation**](https://github.com/JakubCzarnik/Machine-Learning-in-Cpp) (C++):  Developed implementations of six popular machine learning algorithms (Linear Regression, Logistic Regression, K-Means, KNN, Naive Bayes, PCA) using C++.
-
-   
-#### Computer Vision:
-- [**cWGAN-GP**](https://github.com/JakubCzarnik/cWGAN-GP-Cifar10) (Tensorflow):  Developed a conditional Wasserstein GAN with gradient penalty on the Cifar-10 dataset.
-- [**Object Detection**](https://github.com/JakubCzarnik/Object-Detection-Model-for-the-COCO2017-dataset) (Tensorflow):  I developed an object detection model based on the YOLOv8 architecture. This model utilizes a **DynamicBBoxMatcher** algorithm, which dynamically matches predicted bounding boxes to true bounding boxes based on Intersection Over Union (IOU) and classification during loss calculation. Additionally, I employed the **Non-Maximum Suppression** (NMS) algorithm, which selects the bounding box with the highest IOU among multiple overlapping bounding boxes.
-- [**Multi-Pose Estimation**](https://github.com/JakubCzarnik/Pose-Estimation-for-the-COCO2017-dataset-) (Tensorflow):  Currently working on a multi-pose estimation model.
-
+- [Implementation of classical machine learning algorithms](https://github.com/JakubCzarnik/Project-Descriptions/tree/main/Classical%20ML%20Algorithms%20(EN))
+- [Implementation of deep machine learning algorithms](https://github.com/JakubCzarnik/Project-Descriptions/tree/main/Deep%20ML%20Framework%20(EN))
+- [Object detection in TensorFlow](https://github.com/JakubCzarnik/Project-Descriptions/tree/main/Object%20Detection%20(EN))
 
 
 Thank you for visiting my profile!
